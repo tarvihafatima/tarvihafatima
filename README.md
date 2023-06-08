@@ -20,6 +20,10 @@
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/tarvihafatima)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/tarvihafatima)
 
+### ETL Tools
+[![Talend](https://img.shields.io/badge/talend-black?style=for-the-badge&logo=talend)](https://github.com/tarvihafatima)
+[![Airflow](https://img.shields.io/badge/airflow-black?style=for-the-badge&logo=airflow)](https://github.com/tarvihafatima)
+
 ### Technologies & Frameworks
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/tarvihafatima)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/tarvihafatima)
