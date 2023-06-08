@@ -16,17 +16,21 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/tarvihafatima)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/tarvihafatima)
 
-### Data Processing
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/tarvihafatima)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/tarvihafatima)
-
 ### ETL Tools
 [![Talend](https://img.shields.io/badge/talend-black?style=for-the-badge&logo=talend)](https://github.com/tarvihafatima)
 [![Airflow](https://img.shields.io/badge/airflow-black?style=for-the-badge&logo=apacheairflow)](https://github.com/tarvihafatima)
 
+### Cloud Platforms
+[![Amazon Web Services](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)](https://github.com/tarvihafatima)
+[![Google Cloud Platform](https://img.shields.io/badge/gcp-black?style=for-the-badge&logo=google)](https://github.com/tarvihafatima)
+
 ### Technologies & Frameworks
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/tarvihafatima)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/tarvihafatima)
+        
+### Data Processing
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/tarvihafatima)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/tarvihafatima)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/tarvihafatima)
