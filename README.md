@@ -24,6 +24,9 @@
 [![Amazon Web Services](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)](https://github.com/tarvihafatima)
 [![Google Cloud Platform](https://img.shields.io/badge/gcp-black?style=for-the-badge&logo=google)](https://github.com/tarvihafatima)
 
+### BigData Technologies
+[![Apache Spark](https://img.shields.io/badge/spark-black?style=for-the-badge&logo=apachespark)](https://github.com/tarvihafatima)
+
 ### Technologies & Frameworks
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/tarvihafatima)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/tarvihafatima)
