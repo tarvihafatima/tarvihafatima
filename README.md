@@ -19,6 +19,7 @@
 ### ETL Tools
 [![Talend](https://img.shields.io/badge/talend-black?style=for-the-badge&logo=talend)](https://github.com/tarvihafatima)
 [![Airflow](https://img.shields.io/badge/airflow-black?style=for-the-badge&logo=apacheairflow)](https://github.com/tarvihafatima)
+[![DBT](https://img.shields.io/badge/dbt-black?style=for-the-badge&logo=dbt)](https://github.com/tarvihafatima)
 
 ### Cloud Platforms
 [![Amazon Web Services](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)](https://github.com/tarvihafatima)
